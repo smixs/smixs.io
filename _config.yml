@@ -16,7 +16,7 @@
 title: serge shima
 email: serge.shima@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  THis is my personal page. Keep smililng
+  This is my personal page. Keep smililng
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shimanskill
